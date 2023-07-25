@@ -25,6 +25,8 @@
 >git add .
 >
 >git commit -m "Comment"
+>
+> git push
 ### 16. On the web interface, create the bug_report.json file.
 ### 17. Make Commit changes (save) changes on the web interface.
 ### 18. Modify the bug_report.json file on the web interface, add a bug report in JSON format.
