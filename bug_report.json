@@ -1,9 +1,8 @@
 { "Bug report ID": 1,
-  "Title" : "Can't loging into system"
+  "Title" : "Can't loging into system",
   "Severity" : "Critical",
   "Priority" : "Hight",
   "STR": [ "1. Navigate to the site.com",
 		"2. Enter test data in 'login' and 'password' fields",
-		"3. Click 'Login' button",
-		],
+		"3. Click 'Login' button"]
 }
